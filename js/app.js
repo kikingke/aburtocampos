@@ -109,7 +109,7 @@
               "position": "Web Developer",
               "map": "Managua",
               "role": 
-                "Using the knowledge in web design my team was in charged to create and edit requests frrm the clients that owns the web sites that we used to give them support."
+                "Using the knowledge in web design my team was in charged to create and edit requests from the clients that owns the web sites that we used to give them support."
               ,
               "technology": [
                 "Bootstrap",
