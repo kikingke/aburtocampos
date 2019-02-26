@@ -47,8 +47,8 @@
            "title": "Web Developer/Designer",
             "site": "https://bit.ly/raburto",
           "phones": {
-             "movistar": "760692930",
-             "claro": "887503574"
+             "movistar": "76092930",
+             "claro": "88503574"
           },
           "social": {
              "fb": "kikingke",
