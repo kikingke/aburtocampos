@@ -59,7 +59,7 @@
           "email":  "eabucam@gmail.com",
 
           "objetives": [
-            "Ramón Aburto is an Nicaraguan engineer and bilingual professional which is easy to get along and that shows a lot of potential and knowledge on his area of expertise.",
+            "Ramón Aburto is a Nicaraguan Engineer and bilingual professional responsible, reliable, whom is easy to get along and that shows a lot of potential and knowledge on his area of expertise.",
           ],
           "skills": {
             "languages": [
