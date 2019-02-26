@@ -132,6 +132,21 @@
               ]
             },
              {
+              "place": "Sitel Nicaragua",
+              "period": "2016",
+              "position": "Customer Service Representative",
+               "map": "Managua",
+              "role": 
+                "I worked as customer service representative for an american company that offers service of hotels, rooms and etc, to reserve as vacations or corportare travelers."
+              ,
+              "technology": [
+                "E-mail",
+                "English",
+                "Apple Devices",
+                "Apple Store"
+              ]
+            },
+           {
               "place": "Manuel Hernández Martinez",
               "period": "2015",
               "position": "Substitute Teacher",
@@ -145,7 +160,7 @@
                 "Apple Devices",
                 "Apple Store"
               ]
-            },
+            }
           ],
           "education": [
             {
