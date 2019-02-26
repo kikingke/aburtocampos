@@ -137,7 +137,7 @@
               "position": "Customer Service Representative",
                "map": "Managua",
               "role": 
-                "I worked as customer service representative for an american company that offers service of hotels, rooms and etc, to reserve as vacations or corportare travelers."
+                "I worked as customer service representative for an american company that offers service of hotels, room service and others related, to reserve as vacations or corporate travelers."
               ,
               "technology": [
                 "E-mail",
