@@ -176,6 +176,31 @@
               "period": "2018"
             }
           ],
+          "projectDescription":{
+            "content":"Here are some of the projects that I made myself that could be interesting for any reader of this site or that is interested on my skills as professional."
+          },
+           "projects": [
+            {
+              "title": "CV 1.0",
+              "description": "A responsive website template design to help organizing a Curriculum Vitae online, to promote professional skills, it was built with Bootstrap 4.3.1 and AngularJS."
+            },
+            {
+              "title": "Agenda",
+              "description": "Web App build with AngularJS and Firebase as backend that storage contact numbers online."
+            },
+            {
+              "title": "AT",
+              "description": "Web App that shows information as services, contact, and brief explanation of a Marketing Digital Agency"
+            },
+            {
+              "title": "Major in English as a Foreign Language",
+              "description": "Web Systems"
+            },
+            {
+              "title": "Major in English as a Foreign Language",
+              "description": "Web Systems"
+            }
+          ],
           "interests": [
             "Culture",
             "Technology",
