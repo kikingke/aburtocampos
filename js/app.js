@@ -39,7 +39,7 @@
 
  app.factory("datosFactory", function(){
     var entries = {
-          "document": "CURRICULUM VITAE",
+          "document": "Professional Profile",
           "date": "2014-07-10T23:28:32.693Z",
           "firstname": "Ramón", 
           "surname": "Enrique",
