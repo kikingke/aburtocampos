@@ -54,7 +54,7 @@
              "fb": "kikeaburto.0",
              "tw": "kikeaburto",
              "in": "kikingke",
-             "li": "ing-enrique-aburto-449337172"
+             "li": "ing-enrique-aburto"
           },
           "email":  "eabucam@gmail.com",
 
