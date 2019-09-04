@@ -164,7 +164,7 @@
           ],
           "education": [
             {
-              "title": "Major in Information System Engineering",
+              "title": "Information Systems Engineering Major",
               "speciality": "Web Systems",
               "place": "UNAN - Managua",
               "period": "2015"
