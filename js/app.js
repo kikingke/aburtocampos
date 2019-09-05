@@ -88,7 +88,7 @@ app.factory("datosFactory", function() {
         position: "Web Developer",
         map: "Managua",
         role:
-          "Using the knowledge in web design my team was in charged to create and edit requests from the clients that owns the web sites that we used to give them support.",
+          "Using the knowledge in web design I was in a team that was in charged to create and edit sites from the clients owners based on PDF or PSD files.",
         technology: ["Bootstrap", "Javascript", "CMS", "CSS3"]
       },
       {
@@ -97,7 +97,7 @@ app.factory("datosFactory", function() {
         position: "Technical Support",
         map: "Managua",
         role:
-          "I was in charged to answer emails and chats to a client from the Apple Company and users of the Apple Store in order to solve some issues with the purchases that the clients used to make everyday and give them the right information in order to have the best experience in technical support.",
+          "I was in charged to answer chats and email from clients users of the Apple Store in order to solve some issues with their purchases on theri s devices and also provide them the right information in order to have the best experience in technical support and customer service.",
         technology: ["E-mail", "English", "Apple Devices", "Apple Store"]
       },
       {
@@ -106,7 +106,7 @@ app.factory("datosFactory", function() {
         position: "Customer Service Representative",
         map: "Managua",
         role:
-          "I worked as customer service representative for an american company that offers service of hotels, room service and others related, to reserve as vacations or corporate travelers.",
+          "I worked as customer service representative for an american company that offers service from hotels, room service and others related, to book as regular users or corporate travelers.",
         technology: ["E-mail", "English", "Apple Devices", "Apple Store"]
       },
       {
@@ -115,7 +115,7 @@ app.factory("datosFactory", function() {
         position: "Substitute Teacher",
         map: "Carazo",
         role:
-          "I was substitute teacher for the grades from third to fifth on the academic year 2015, I though English to an amount of children between the ages of 10 and 18 years old.",
+          "I was substitute teacher from third to fifth grades on the year 2015, I taught English to an amount of children between the ages of 10 and 18 years old.",
         technology: ["E-mail", "English", "Apple Devices", "Apple Store"]
       }
     ],
@@ -135,7 +135,7 @@ app.factory("datosFactory", function() {
     ],
     projectDescription: {
       content:
-        "Here are some of the projects that I made myself that could be interesting for any reader of this site or that is interested on my skills as professional."
+        "Here are some of the projects that I made myself that could be interesting for any reader of this site or that is interested on my skills as a professional."
     },
     projects: [
       {
@@ -169,9 +169,9 @@ app.factory("datosFactory", function() {
     // var profileName = document.querySelector(".profile-container .name"),
     const origTitle = document.querySelector("#titulo");
     if (document.body.scrollTop >= 100) {
-      origTitle.textContent = this.entries.fullname;
+      origTitle.innerText = entries.fullname;
     } else {
-      origTitle.textContent = this.entries.document;
+      origTitle.innerText = entries.document;
     }
     // document.body.scrollTop >= 100
     //   ? (origTitle.textContent = entries.fullname)
