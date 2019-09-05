@@ -169,9 +169,9 @@ app.factory("datosFactory", function() {
     // var profileName = document.querySelector(".profile-container .name"),
     const origTitle = document.querySelector("#titulo");
     if (document.body.scrollTop >= 100) {
-      origTitle.textContent = entries.fullname;
+      origTitle.textContent = this.entries.fullname;
     } else {
-      origTitle.textContent = entries.document;
+      origTitle.textContent = this.entries.document;
     }
     // document.body.scrollTop >= 100
     //   ? (origTitle.textContent = entries.fullname)
