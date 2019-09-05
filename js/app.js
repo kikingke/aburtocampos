@@ -21,7 +21,7 @@ app
     "datosFactory",
     function($scope, datosFactory) {
       $scope.cv = datosFactory.getDatos();
-      console.log($scope.cv);
+      // console.log($scope.cv);
     }
   ])
 
@@ -166,12 +166,18 @@ app.factory("datosFactory", function() {
   };
 
   function scrollFunction(ev) {
-    var profileName = document.querySelector(".profile-container .name"),
-      origTitle = document.querySelector("#titulo");
+    // var profileName = document.querySelector(".profile-container .name"),
+    var origTitle = document.querySelector("#titulo");
+    if (document.body.scrollTop >= 100) {
+      origTitle.textContent = entries.fullname;
+    } else {
+      origTitle.textContent = entries.document;
+    }
+    // document.body.scrollTop >= 100
+    //   ? (origTitle.textContent = entries.fullname)
+    //   : (origTitle.textContent = entries.document);
 
-    document.body.scrollTop >= 100
-      ? (origTitle.textContent = entries.fullname)
-      : (origTitle.textContent = entries.document);
+    console.log(entries.fullname + entries.document);
   }
 
   window.addEventListener("scroll", scrollFunction);
