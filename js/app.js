@@ -167,7 +167,7 @@ app.factory("datosFactory", function() {
 
   function scrollFunction(ev) {
     // var profileName = document.querySelector(".profile-container .name"),
-    var origTitle = document.querySelector("#titulo");
+    let origTitle = document.querySelector("#titulo");
     if (document.body.scrollTop >= 100) {
       origTitle.textContent = entries.fullname;
     } else {
